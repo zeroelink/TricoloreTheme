@@ -1,4 +1,4 @@
-TricoloreXcode
-==============
+Tricolore Themes
+================
 
-TriColore Themes for TextMate/Sublime Text 2 and Xcode
+Tricolore Themes for TextMate/Sublime Text 2 and Xcode
